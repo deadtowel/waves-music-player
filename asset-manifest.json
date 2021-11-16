@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/waves-music-app-build-/static/js/main.02d4b0a8.chunk.js",
+    "main.js.map": "/waves-music-app-build-/static/js/main.02d4b0a8.chunk.js.map",
+    "runtime-main.js": "/waves-music-app-build-/static/js/runtime-main.dcb4871c.js",
+    "runtime-main.js.map": "/waves-music-app-build-/static/js/runtime-main.dcb4871c.js.map",
+    "static/js/2.28a3a292.chunk.js": "/waves-music-app-build-/static/js/2.28a3a292.chunk.js",
+    "static/js/2.28a3a292.chunk.js.map": "/waves-music-app-build-/static/js/2.28a3a292.chunk.js.map",
+    "index.html": "/waves-music-app-build-/index.html",
+    "static/js/2.28a3a292.chunk.js.LICENSE.txt": "/waves-music-app-build-/static/js/2.28a3a292.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcb4871c.js",
+    "static/js/2.28a3a292.chunk.js",
+    "static/js/main.02d4b0a8.chunk.js"
+  ]
+}
